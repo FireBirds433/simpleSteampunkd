@@ -59,6 +59,7 @@ public class Robot extends IterativeRobot {
 	DigitalInput autonSwitchB = new DigitalInput(1);
 	DigitalInput autonSwitchC = new DigitalInput(2);
 	
+	//push and commit
 	int auton;
 	int switchAFinal;
 	int switchBFinal;
